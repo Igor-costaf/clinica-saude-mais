@@ -15,15 +15,7 @@ Ele apresenta informações sobre serviços médicos, equipe profissional e um f
 - **CSS3** para estilização e layout
 
  Como Executar o Projeto
-1. Clone este repositório:
-   bash
-   git clone https://github.com/seu-usuario/clinica-saude-mais.git
-   
-2. Navegue até a pasta do projeto:
-   bash
-   cd clinica-saude-mais
-   
-3. Abra o arquivo `index.html` em um navegador web.
+1. Abra o arquivo `pdw.html` em um navegador web.
 
  Estrutura do Projeto
  
