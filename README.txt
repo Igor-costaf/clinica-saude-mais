@@ -15,7 +15,9 @@ Ele apresenta informações sobre serviços médicos, equipe profissional e um f
 - **CSS3** para estilização e layout
 
  Como Executar o Projeto
-1. Abra o arquivo `pdw.html` em um navegador web.
+1. Faça o download da pasta ZIP em "CODE".
+2. Salve em seu computador.
+3. Abra o arquivo `pdw.html` em um navegador web.
 
  Estrutura do Projeto
  
